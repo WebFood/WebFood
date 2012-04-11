@@ -1,3 +1,5 @@
+# License #
+
 Copyright (c) 2012, Florian Beetz
 All rights reserved.
 
